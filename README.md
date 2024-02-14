@@ -10,11 +10,11 @@ Purpose:    Lexer Class that Builds Lexemes
 Originally Compiled in UNIX Machine
 
 
-Put the Files into the Same Folder and run Command:
+Put the Files into the Same Folder and Run Command:
 
 javac *.java && java Program testX.minc
 
 
-To Run all Test Cases as the Same Time Run:
+To Run all Test Cases at the Same Time Run Command:
 
 java Test
